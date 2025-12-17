@@ -3,7 +3,7 @@
 **Project Manager, Graduate Consulting Team | University of Illinois Urbana-Champaign**  
 *AI Transformation Roadmap for Walmart Customer Experience*
 
-Led a 5-member graduate consulting team under Associate Professor Yoo-Seong Song to develop an AI strategy addressing Walmart's customer experience challenges like stockouts, checkout delays, and personalization gaps. Directed project scoping, research coordination, and deliverable production—including user analysis, competitive benchmarking against Amazon/Costco, and a comprehensive 4-pillar AI roadmap: unified predictive data core, autonomous operations, predictive personalized customer experience (dynamic loyalty/household personalization), and agentic commerce ecosystem. [file:19][file:20][conversation_history:14]
+Led a 5-member graduate consulting team under Associate Professor Yoo-Seong Song to develop an AI strategy addressing Walmart's customer experience challenges like stockouts, checkout delays, and personalization gaps. Directed project scoping, research coordination, and deliverable production—including user analysis, competitive benchmarking against Amazon/Costco, and a comprehensive 4-pillar AI roadmap: unified predictive data core, autonomous operations, predictive personalized customer experience (dynamic loyalty/household personalization), and agentic commerce ecosystem. 
 
 Walmart generated **$648B revenue** in FY2024 with **15.9% e-commerce penetration**, yet faces **CSAT ~70** (vs. Costco/Target ~80) due to empty shelves, long checkouts, fragmented personalization, and reactive operations blocking AI tools like Sparky. **Central Question**: How can Walmart leverage AI to enhance CX and maintain U.S. competitiveness?
 
