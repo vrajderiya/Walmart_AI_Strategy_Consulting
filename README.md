@@ -41,6 +41,5 @@ Walmart generated **$648B revenue** in FY2024 with **15.9% e-commerce penetratio
 
 **Vraj Deriya**  
 *Data Science Consultant & Project Manager* | UIUC iSchool MS Candidate  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vrajderiya) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vrajderiya)
 
-*Academic consulting project – no proprietary Walmart data included. Coursework under Prof. Yoo-Seong Song (former management consultant).* [file:19][file:20][file:21][file:22][file:23][memory:10][memory:14]
+*Academic consulting project – no proprietary Walmart data included. Coursework under Prof. Yoo-Seong Song (former management consultant).*
